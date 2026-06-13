@@ -10,15 +10,15 @@ Verdura is a modern organic food delivery mobile application designed to help us
 
 ### Splash Screen
 
-SplashScreen.png
+Splash Screen.png
 
 ### Product List Screen
 
-ProductList.png
+Product List.png
 
 ### Product Details Screen
 
-ProductDetails.png
+Product Details.png
 
 ### Style Tile
 
