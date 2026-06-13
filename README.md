@@ -22,8 +22,7 @@ ProductDetails.png
 
 ### Style Tile
 
-StyleTile.png
-
+Style Tile.png
 ---
 
 ## Prototype
