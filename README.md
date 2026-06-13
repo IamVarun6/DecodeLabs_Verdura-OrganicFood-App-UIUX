@@ -23,7 +23,6 @@ ProductDetails.png
 ### Style Tile
 
 Style Tile.png
----
 
 ## Prototype
 
